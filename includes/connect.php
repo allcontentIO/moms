@@ -5,10 +5,10 @@
 	{
 		//Database Connection
 		$host = "localhost";
-		$user = "emediasearch";
-		$pass = "iw2blm";
+		$user = "moms";
+		$pass = "chngeme";
 		$conn = mysql_connect($host,$user,$pass);
-		mysql_select_db("emediasearch");
+		mysql_select_db("moms");
 		///////////////////////////////////////////////
 	}
 	

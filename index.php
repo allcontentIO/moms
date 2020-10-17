@@ -2954,8 +2954,7 @@ function issue_search(page) {
     <div class="container-fluid">   
         <div class="row">
             <div class="col-md-12 footer">
-               <p id="footer-text">Copyright &copy; 2015 <a href="http://www.mediastow.com/" target="_blank">Mediastow</a>
-                 | <a href="http://www.emediasearch.com" target="_blank">emediasearch</a></p>
+			<p id="footer-text">Copyright &copy; 2020 <a href="https://allcontent.io/" target="_blank">ALLCONTENT Corporation</a></p>
             </div><!-- /.footer --> 
         </div>
     </div> <!-- /.container-fluid -->

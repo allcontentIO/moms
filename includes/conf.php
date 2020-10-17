@@ -3,7 +3,7 @@
  include("connect.php");
  
  $_RATEPATH = "/data/adrates/";
- $_HOSTURL = "http://moms.emediasearch.com/";
+ $_HOSTURL = "http://moms.localhost/";
  
 
 
